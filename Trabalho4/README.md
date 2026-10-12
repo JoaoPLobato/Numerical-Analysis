@@ -1,5 +1,4 @@
 Análise Numérica (M2018) — 2024/2025
-O relatório deste trabalho prático deve ser enviado por email para mjsrodri@fc.up.pt
 Trabalho prático 4 
 Pretende-se calcular
 I =
