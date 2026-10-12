@@ -4,9 +4,9 @@
 
 Pretende-se calcular
 
-\[
-I = \int_0^4 \sqrt{\sin(\sin(\sin(\sin(x))))}\,dx
-\]
+$$
+I = \int_0^4 \sqrt{\sin(\sin(\sin(\sin(x))))}\, dx
+$$
 
 **1.** Escrevam um programa, na linguagem que preferirem, que calcule um valor aproximado de \(I\) usando a regra dos trapézios, com erro absoluto majorado inferior a \(\varepsilon\) dado, fazendo uma partição do intervalo \([0,4]\) em \(n\) subintervalos de igual amplitude.
 
