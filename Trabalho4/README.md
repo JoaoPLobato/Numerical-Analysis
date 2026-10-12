@@ -10,7 +10,7 @@ $$
 
 ### 1. Implementação do método
 
-Escrevam um programa, na linguagem que preferirem, que calcule um valor aproximado de \(I\) usando a **regra dos trapézios**, com erro absoluto majorado inferior a \(\varepsilon\) dado, fazendo uma partição do intervalo \([0,4]\) em \(n\) subintervalos de igual amplitude.
+Escrevam um programa, na linguagem que preferirem, que calcule um valor aproximado de \(I\) usando a **regra dos trapézios**, com erro absoluto majorado inferior a $$\varepsilon$$ dado, fazendo uma partição do intervalo \([0,4]\) em \(n\) subintervalos de igual amplitude.
 
 O valor de \(n\) deve ser calculado fora do programa.
 
